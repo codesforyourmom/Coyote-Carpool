@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "644690513510",
+    "firebase_url": "https://coyote-carpool-default-rtdb.firebaseio.com",
+    "project_id": "coyote-carpool",
+    "storage_bucket": "coyote-carpool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644690513510:android:f7ee6bad5f0d4f8f82e7a7",
+        "android_client_info": {
+          "package_name": "com.CoyoteCarpool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644690513510-m4pkrar74io0e46u0jc9t4eeh0ccltn7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.CoyoteCarpool",
+            "certificate_hash": "b64f643f4833524f80ddcd5213948c11b284b733"
+          }
+        },
+        {
+          "client_id": "644690513510-18ih9jsm1kak0uqqclrm4docbh0jqiaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIBFRtEu9TUd2CMlQcsJi1vn5iRjgwec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644690513510-18ih9jsm1kak0uqqclrm4docbh0jqiaq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "644690513510-garnn4qmdbu7bml8c6l4c1fu065ojlus.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644690513510:android:e0d3b08d504f4fff82e7a7",
+        "android_client_info": {
+          "package_name": "com.coyote_carpool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644690513510-9gfo92337s9legdvusnlnt67vnv2arah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coyote_carpool",
+            "certificate_hash": "b64f643f4833524f80ddcd5213948c11b284b733"
+          }
+        },
+        {
+          "client_id": "644690513510-18ih9jsm1kak0uqqclrm4docbh0jqiaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIBFRtEu9TUd2CMlQcsJi1vn5iRjgwec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644690513510-18ih9jsm1kak0uqqclrm4docbh0jqiaq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "644690513510-garnn4qmdbu7bml8c6l4c1fu065ojlus.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

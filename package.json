@@ -1,0 +1,45 @@
+{
+  "name": "Coyote_Carpool",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.17.3",
+    "@react-native-community/google-signin": "^5.0.0",
+    "@react-native-firebase/app": "^14.7.0",
+    "@react-native-firebase/auth": "^14.7.0",
+    "@react-native-firebase/database": "^14.7.0",
+    "@react-native-firebase/firestore": "^14.7.0",
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/native-stack": "^6.5.2",
+    "firebase": "^8.2.3",
+    "react": "17.0.2",
+    "react-native": "0.68.0",
+    "react-native-elements": "^3.4.2",
+    "react-native-geocoding": "^0.5.0",
+    "react-native-geolocation-service": "^5.3.0-beta.4",
+    "react-native-gesture-handler": "*",
+    "react-native-get-location": "^2.2.1",
+    "react-native-safe-area-context": "*",
+    "react-native-screens": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "7.17.8",
+    "@babel/runtime": "7.17.8",
+    "@react-native-community/eslint-config": "2.0.0",
+    "babel-jest": "26.6.3",
+    "eslint": "7.32.0",
+    "jest": "26.6.3",
+    "metro-react-native-babel-preset": "0.67.0",
+    "react-test-renderer": "17.0.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
